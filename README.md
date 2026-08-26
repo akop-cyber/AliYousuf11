@@ -1,74 +1,48 @@
-# Hi, I'm Ali 👋
+Hey, I'm Ali 👋
+🎓 IGCSE Student • 💻 Frontend Developer in Progress • 🚀 Building cool stuff
 
-### Python Learner • Problem Solver • Building Projects and Improving Every Day
+Welcome to my little corner of GitHub.
 
-Welcome to my GitHub profile.
+I'm currently focused on learning frontend development and turning ideas into websites that actually look good and work properly.
 
-I'm currently learning programming through hands-on projects and consistent practice. My focus is on understanding how software works, strengthening my problem-solving skills, and turning ideas into working applications.
+Right now, I'm learning by building, breaking things, fixing them, and occasionally asking myself why CSS is behaving like that 😭.
 
-I enjoy learning by building. Each project helps me improve my coding skills, understand new concepts, and gain practical experience with Python.
+🧠 Currently Learning
+🌐 HTML
+🎨 CSS
+⚡ JavaScript
+🧩 Responsive Web Design
+🛠️ Building real-world projects
+🛠️ What You'll Find Here
 
----
+My repositories will include:
 
-## 📚 Currently Learning
+Frontend projects
+Websites and landing pages
+UI experiments
+Practice projects
+Random ideas that somehow turned into code
 
-* Python Programming
-* Object-Oriented Programming (OOP)
-* Exception Handling
-* Databases & SQL
-* Programming Logic and Problem Solving
+Basically, this GitHub is where I build, experiment, break things, fix them, and hopefully improve along the way.
 
----
+🎯 Current Mission
+Build solid frontend projects
+Get comfortable with JavaScript
+Improve my UI and web development skills
+Create projects I'm actually proud to show
+Keep learning and shipping 🚀
+⚡ A Little About Me
 
-## 🛠 What You'll Find Here
+I'm an IGCSE student currently exploring the world of web development.
 
-My repositories include:
+I enjoy learning by actually building things instead of just watching tutorials. Every project teaches me something new—even if that lesson is sometimes "don't touch the CSS when everything is already working" 😭.
 
-* Python projects
-* Learning experiments
-* Practice applications
-* Problem-solving exercises
-* Future software development projects
+This profile is basically my development journey in public.
 
-Each project reflects a stage of my learning journey and the skills I'm developing along the way.
+🚀 What's Next?
 
----
+More projects. Better websites. Cleaner code.
 
-## 🌟 Featured Project
+Currently on my frontend developer arc 💻
 
-### Task Management System
-
-A command-line application built with Python for creating, managing, and storing tasks using JSON.
-
-**Concepts Used:**
-
-* Functions
-* Dictionaries
-* File Handling
-* JSON Storage
-
----
-
-## 🎯 Current Goals
-
-* Build more Python projects
-* Strengthen problem-solving skills
-* Master Object-Oriented Programming
-* Learn databases and SQL
-* Explore web development in the future
-
----
-
-## 💡 My Approach
-
-I believe programming is best learned through practice. Rather than only following tutorials, I focus on building projects, solving problems, and continuously improving my code.
-
-This GitHub profile serves as a record of that progress and growth.
-
----
-
-## 🚀 Looking Ahead
-
-As I continue learning, you'll find more advanced projects here covering software development, automation, databases, and web-based applications.
-
-Thanks for visiting my profile and checking out my work!
+Thanks for stopping by! 👋
